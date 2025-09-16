@@ -1,0 +1,633 @@
+Date,Region,Salesperson,Product,Quantity,Unit Price,Revenue,Discount,Customer Segment
+2/29/2024,north ,Alice,Phon,1000,,,0.05,SMB
+1/15/2024,South,Ethan,Monitor,6,250,1425,0.05,Corporate
+3/22/2024,East,Ethan,Laptop,1000,900,810000,0.1,Corporate
+2/18/2024,West,Ethan,Tablet,3,400,1020,0.15,Retail
+2/29/2024,South,Alice,Headphones,8,120,960,0,SMB
+2/21/2024,north ,Charlie,Phone,6,700,4200,0,Retail
+6/29/2024,north ,Alice,Headphones,6,120,720,0,SMB
+6/18/2024,EAST,Ethan,Lapptop,6,,,0.1,SMB
+2/10/2024,EAST,Diana,Tblet,3,,,,SMB
+5/30/2024,north ,Diana,Tablet,1000,400,360000,0.1,Corporate
+1/1/2024,EAST,Ethan,Laptop,3,900,2700,,SMB
+6/5/2024,South,Ethan,Lapptop,8,,,0.05,SMB
+3/1/2024,East,Charlie,Phone,1000,700,700000,0,SMB
+3/8/2024,South,Bob,Lapptop,6,,,0.1,Retail
+1/13/2024,EAST,Diana,Monitor,3,250,637.5,0.15,
+3/30/2024,west ,Diana,Lapptop,8,,,,Corporate
+1/19/2024,North,Charlie,Laptop,6,900,4860,0.1,Retail
+2/13/2024,EAST,Bob,Lapptop,9,,,0,SMB
+6/6/2024,West,Alice,Monitor,1000,250,237500,0.05,
+1/26/2024,East,Bob,Phon,7,,,,SMB
+3/17/2024,South,Alice,Laptop,7,900,6300,,
+4/2/2024,North,Diana,Lapptop,5,,,,
+1/7/2024,South,Bob,Tablet,2,400,680,0.15,Retail
+4/11/2024,West,Diana,Tablet,2,400,800,,
+4/7/2024,East,Bob,Monitr,1,,,0.1,
+2/27/2024,south,Ethan,Laptop,3,900,2700,0,Retail
+5/18/2024,EAST,Ethan,Phon,9,,,0,
+4/17/2024,west ,Diana,Headfone,4,,,0.15,SMB
+1/9/2024,west ,Ethan,Headphones,10,120,1200,,Corporate
+4/24/2024,north ,Bob,Phon,4,,,0.05,Retail
+6/23/2024,EAST,Bob,Phone,10,700,6300,0.1,SMB
+1/18/2024,NORTH,Diana,Headphones,7,120,840,,SMB
+5/13/2024,West,Alice,Headfone,10,,,,
+2/8/2024,north ,Ethan,Headfone,10,,,0,Retail
+1/26/2024,south,Ethan,Tblet,7,,,0.1,
+5/26/2024,West,Alice,Phone,5,700,2975,0.15,Corporate
+6/23/2024,EAST,Alice,Monitor,6,250,1425,0.05,Retail
+3/9/2024,East,Alice,Tblet,5,,,0.1,SMB
+6/27/2024,NORTH,Bob,Phone,5,700,2975,0.15,SMB
+4/16/2024,NORTH,Bob,Monitr,4,,,0.15,
+4/5/2024,North,Ethan,Phone,2,700,1260,0.1,
+5/14/2024,North,Bob,Phon,4,,,0,Corporate
+5/14/2024,North,Bob,Phon,4,,,0,Corporate
+1/13/2024,East,Bob,Tablet,6,400,2040,0.15,
+2/1/2024,North,Bob,Tblet,8,,,,
+5/1/2024,west ,Charlie,Tblet,3,,,0.1,Retail
+4/8/2024,North,Bob,Headfone,4,,,0.05,Corporate
+3/9/2024,EAST,Ethan,Laptop,1000,900,900000,0,
+6/14/2024,north ,Ethan,Laptop,4,900,3240,0.1,SMB
+6/30/2024,south,Diana,Monitor,6,250,1275,0.15,SMB
+3/18/2024,west ,Ethan,Monitor,10,250,2500,0,Retail
+6/18/2024,East,Ethan,Headfone,10,,,0.1,SMB
+5/3/2024,NORTH,Charlie,Tablet,1000,400,360000,0.1,SMB
+6/15/2024,south,Bob,Phone,9,700,5985,0.05,Retail
+6/2/2024,EAST,Charlie,Phone,1000,700,700000,0,
+3/7/2024,EAST,Diana,Monitor,1000,250,250000,0,Corporate
+2/26/2024,west ,Diana,Tblet,9,,,0.1,Corporate
+5/22/2024,north ,Charlie,Lapptop,8,,,0.05,SMB
+5/23/2024,north ,Charlie,Lapptop,4,,,0.1,Corporate
+3/19/2024,EAST,Charlie,Tblet,5,,,,SMB
+1/31/2024,West,Alice,Headfone,10,,,,Retail
+2/19/2024,west ,Alice,Monitor,9,250,2025,0.1,
+2/8/2024,north ,Bob,Tblet,7,,,,
+2/16/2024,NORTH,Diana,Tblet,1000,,,0.05,SMB
+1/2/2024,West,Charlie,Phon,3,,,,Corporate
+1/23/2024,north ,Ethan,Monitor,1000,250,212500,0.15,
+5/2/2024,EAST,Alice,Laptop,9,900,7695,0.05,SMB
+3/23/2024,west ,Bob,Laptop,1000,900,900000,0,Corporate
+3/29/2024,south,Bob,Lapptop,7,,,,SMB
+1/12/2024,south,Charlie,Monitr,1000,,,,SMB
+6/24/2024,north ,Charlie,Monitr,6,,,0.05,Corporate
+4/13/2024,North,Bob,Phon,1000,,,0.05,Corporate
+5/30/2024,west ,Bob,Lapptop,6,,,0,
+3/6/2024,west ,Ethan,Laptop,10,900,9000,0,Retail
+1/6/2024,North,Alice,Monitor,8,250,1700,0.15,Retail
+5/1/2024,north ,Bob,Laptop,5,900,3825,0.15,Retail
+3/10/2024,north ,Diana,Lapptop,9,,,,Retail
+1/28/2024,West,Bob,Headfone,4,,,0.1,Corporate
+4/14/2024,south,Bob,Laptop,9,900,6885,0.15,Corporate
+5/3/2024,East,Bob,Laptop,1,900,900,0,Retail
+6/20/2024,West,Bob,Lapptop,9,,,0,Retail
+6/13/2024,South,Diana,Tablet,5,400,1700,0.15,Retail
+2/14/2024,North,Charlie,Tblet,1000,,,0.1,
+1/25/2024,North,Alice,Phone,1000,700,665000,0.05,SMB
+4/22/2024,south,Alice,Tblet,6,,,0.05,Retail
+4/26/2024,south,Diana,Monitr,7,,,0.05,Retail
+1/16/2024,north ,Alice,Monitor,10,250,2125,0.15,
+4/7/2024,East,Ethan,Laptop,1000,900,855000,0.05,
+1/29/2024,EAST,Diana,Laptop,2,900,1620,0.1,SMB
+1/29/2024,EAST,Diana,Laptop,2,900,1620,0.1,SMB
+6/22/2024,west ,Ethan,Headfone,4,,,0.1,Retail
+3/4/2024,West,Charlie,Monitor,3,250,750,,Retail
+3/4/2024,West,Charlie,Monitor,3,250,750,,Retail
+2/10/2024,west ,Diana,Monitr,3,,,0,
+3/25/2024,south,Alice,Headphones,4,120,480,,
+3/1/2024,NORTH,Diana,Monitr,10,,,0.15,Retail
+4/24/2024,East,Alice,Monitr,1000,,,0,Retail
+1/10/2024,west ,Ethan,Laptop,2,900,1800,,SMB
+5/23/2024,South,Diana,Tblet,6,,,0,Corporate
+3/25/2024,west ,Ethan,Headfone,8,,,0.1,
+6/17/2024,South,Alice,Tblet,6,,,0.1,SMB
+1/12/2024,north ,Diana,Phone,1000,700,595000,0.15,Retail
+2/20/2024,South,Alice,Monitor,4,250,850,0.15,Corporate
+1/28/2024,EAST,Alice,Headfone,2,,,0.15,
+5/9/2024,north ,Diana,Laptop,9,900,8100,0,
+5/3/2024,west ,Bob,Headfone,3,,,0.05,Retail
+6/2/2024,East,Ethan,Monitor,7,250,1750,,Corporate
+3/28/2024,south,Diana,Phone,3,700,1785,0.15,SMB
+5/20/2024,East,Ethan,Phon,4,,,0.05,SMB
+6/21/2024,north ,Bob,Headphones,9,120,972,0.1,Retail
+5/23/2024,West,Ethan,Headfone,1000,,,0.15,SMB
+4/18/2024,North,Ethan,Lapptop,1,,,0.15,Corporate
+1/15/2024,South,Charlie,Phone,5,700,3150,0.1,Corporate
+6/25/2024,south,Bob,Headphones,1,120,108,0.1,
+6/21/2024,west ,Bob,Headphones,7,120,798,0.05,SMB
+1/13/2024,EAST,Diana,Monitor,1000,250,225000,0.1,Retail
+1/13/2024,EAST,Diana,Monitor,1000,250,225000,0.1,Retail
+3/5/2024,South,Ethan,Monitr,4,,,0.1,Corporate
+2/19/2024,south,Diana,Phone,1000,700,700000,0,Corporate
+5/11/2024,NORTH,Diana,Laptop,7,900,5670,0.1,SMB
+5/29/2024,south,Alice,Tblet,8,,,0.05,Retail
+3/23/2024,North,Ethan,Tablet,8,400,3200,,SMB
+6/30/2024,East,Ethan,Phon,3,,,,Retail
+2/10/2024,EAST,Ethan,Headphones,7,120,840,0,SMB
+2/24/2024,East,Charlie,Tblet,5,,,0.05,
+6/15/2024,North,Alice,Tblet,8,,,0.05,Corporate
+6/23/2024,East,Diana,Lapptop,7,,,0.1,SMB
+6/23/2024,East,Diana,Lapptop,7,,,0.1,SMB
+5/12/2024,East,Ethan,Headphones,8,120,816,0.15,Retail
+6/15/2024,South,Charlie,Headphones,2,120,240,0,Corporate
+5/17/2024,west ,Alice,Lapptop,4,,,0.05,
+2/22/2024,west ,Diana,Lapptop,1000,,,0.05,Retail
+3/25/2024,North,Alice,Lapptop,1,,,0.05,SMB
+5/27/2024,South,Charlie,Monitor,7,250,1487.5,0.15,
+1/5/2024,EAST,Alice,Headphones,1,120,120,,Retail
+5/29/2024,North,Alice,Tblet,9,,,0,SMB
+3/18/2024,NORTH,Charlie,Monitr,7,,,0.15,Retail
+5/16/2024,South,Bob,Monitor,9,250,2025,0.1,Corporate
+6/14/2024,East,Alice,Headphones,9,120,1026,0.05,Retail
+6/14/2024,East,Alice,Headphones,9,120,1026,0.05,Retail
+5/26/2024,EAST,Ethan,Headphones,2,120,216,0.1,Corporate
+3/29/2024,South,Diana,Headphones,3,120,342,0.05,Corporate
+3/5/2024,South,Alice,Phone,1000,700,700000,,Retail
+5/20/2024,West,Ethan,Lapptop,5,,,0,SMB
+5/28/2024,West,Charlie,Tblet,3,,,0.05,Retail
+1/18/2024,South,Charlie,Monitr,8,,,0.1,SMB
+2/9/2024,East,Charlie,Monitor,3,250,750,0,SMB
+2/26/2024,EAST,Charlie,Tblet,3,,,0.1,
+4/1/2024,south,Diana,Headphones,2,120,228,0.05,Retail
+2/5/2024,west ,Bob,Tablet,1000,400,400000,0,Retail
+5/9/2024,North,Ethan,Headfone,7,,,,Corporate
+5/21/2024,south,Ethan,Headphones,8,120,912,0.05,SMB
+5/30/2024,south,Bob,Monitr,9,,,,Retail
+5/8/2024,North,Bob,Headfone,1000,,,0.05,Corporate
+2/15/2024,north ,Diana,Tblet,1,,,0.05,
+3/8/2024,East,Bob,Laptop,1000,900,855000,0.05,SMB
+4/26/2024,North,Alice,Tblet,2,,,,SMB
+3/8/2024,west ,Ethan,Phone,7,700,4165,0.15,SMB
+1/20/2024,west ,Charlie,Monitor,4,250,1000,,
+3/29/2024,West,Diana,Headfone,1,,,,Corporate
+2/28/2024,NORTH,Ethan,Tablet,4,400,1520,0.05,Corporate
+6/3/2024,NORTH,Bob,Monitor,6,250,1500,0,
+5/2/2024,South,Ethan,Phone,1000,700,595000,0.15,Retail
+2/2/2024,north ,Bob,Headphones,1,120,120,,Corporate
+3/7/2024,north ,Ethan,Monitor,10,250,2500,,Retail
+6/18/2024,south,Alice,Phon,8,,,,
+2/13/2024,South,Diana,Headfone,3,,,,Corporate
+5/10/2024,south,Bob,Tblet,8,,,,Retail
+4/8/2024,north ,Alice,Laptop,4,900,3600,,
+6/4/2024,NORTH,Bob,Monitr,10,,,,Retail
+5/16/2024,west ,Alice,Lapptop,8,,,0.05,Retail
+6/22/2024,EAST,Ethan,Monitor,6,250,1500,0,
+5/3/2024,EAST,Charlie,Headfone,1000,,,,Retail
+3/6/2024,West,Bob,Lapptop,5,,,,
+1/2/2024,North,Ethan,Headphones,2,120,240,,Retail
+2/22/2024,East,Diana,Tblet,2,,,0.05,
+3/5/2024,south,Ethan,Monitor,10,250,2250,0.1,SMB
+4/11/2024,South,Diana,Headphones,9,120,918,0.15,Corporate
+5/22/2024,West,Charlie,Tablet,10,400,3600,0.1,
+6/17/2024,NORTH,Bob,Monitr,1000,,,0.05,Retail
+4/12/2024,East,Ethan,Headfone,1000,,,0,Corporate
+6/11/2024,North,Alice,Phone,8,700,5600,,
+3/8/2024,South,Charlie,Lapptop,10,,,0,
+4/12/2024,west ,Charlie,Headfone,1,,,0.05,
+2/21/2024,west ,Charlie,Phon,1,,,,Corporate
+6/21/2024,North,Charlie,Phon,1000,,,0,Corporate
+3/11/2024,EAST,Charlie,Monitor,7,250,1750,,Corporate
+6/29/2024,NORTH,Alice,Headphones,5,120,600,,SMB
+3/11/2024,South,Ethan,Phon,8,,,0.15,Retail
+4/14/2024,west ,Alice,Headphones,2,120,240,,SMB
+1/30/2024,west ,Charlie,Headphones,10,120,1080,0.1,
+5/24/2024,West,Bob,Tblet,8,,,0.15,Retail
+3/7/2024,NORTH,Diana,Phon,1000,,,0.05,SMB
+3/31/2024,west ,Ethan,Laptop,1000,900,810000,0.1,Corporate
+4/12/2024,East,Alice,Headphones,3,120,306,0.15,SMB
+5/26/2024,south,Bob,Phon,8,,,0.05,Corporate
+3/8/2024,South,Bob,Phon,4,,,,SMB
+1/28/2024,NORTH,Alice,Monitr,10,,,0,Retail
+4/5/2024,East,Diana,Headfone,5,,,0.15,Corporate
+5/10/2024,south,Diana,Phon,10,,,0.05,Retail
+4/18/2024,West,Ethan,Laptop,9,900,7290,0.1,
+2/14/2024,West,Alice,Headphones,8,120,864,0.1,Retail
+2/14/2024,West,Alice,Headphones,8,120,864,0.1,Retail
+2/23/2024,EAST,Ethan,Lapptop,6,,,0.1,SMB
+3/8/2024,South,Charlie,Monitr,10,,,0.1,SMB
+4/18/2024,South,Diana,Tblet,6,,,0.15,SMB
+5/26/2024,north ,Ethan,Phon,2,,,0.1,Corporate
+4/7/2024,South,Bob,Phone,8,700,5600,0,Corporate
+2/4/2024,west ,Ethan,Tblet,8,,,0.1,SMB
+5/25/2024,North,Diana,Lapptop,1000,,,0.05,Retail
+3/6/2024,West,Alice,Monitr,1000,,,0.1,SMB
+5/23/2024,west ,Charlie,Tblet,1,,,0.15,Retail
+6/22/2024,South,Ethan,Headfone,1000,,,,Corporate
+3/13/2024,East,Charlie,Headphones,8,120,816,0.15,Retail
+3/14/2024,West,Bob,Phone,1000,700,630000,0.1,
+5/26/2024,EAST,Alice,Lapptop,3,,,0.1,Corporate
+6/16/2024,south,Charlie,Headfone,1000,,,0.15,SMB
+4/2/2024,west ,Diana,Monitor,3,250,712.5,0.05,Retail
+3/1/2024,south,Alice,Phon,3,,,0.15,Retail
+5/1/2024,west ,Alice,Laptop,7,900,6300,,Retail
+6/7/2024,north ,Alice,Monitor,5,250,1187.5,0.05,Corporate
+4/23/2024,north ,Bob,Headphones,3,120,360,0,Retail
+3/24/2024,West,Diana,Headphones,5,120,600,,
+6/27/2024,west ,Bob,Headfone,10,,,0.15,
+6/12/2024,west ,Charlie,Tblet,8,,,,Corporate
+4/23/2024,south,Charlie,Monitor,5,250,1187.5,0.05,SMB
+4/23/2024,south,Charlie,Monitor,5,250,1187.5,0.05,SMB
+5/13/2024,north ,Charlie,Tablet,8,400,3200,,Retail
+5/5/2024,West,Charlie,Laptop,7,900,5670,0.1,Corporate
+5/20/2024,East,Bob,Monitor,9,250,1912.5,0.15,
+6/14/2024,EAST,Diana,Phon,5,,,0,
+5/12/2024,south,Charlie,Headphones,5,120,510,0.15,Corporate
+2/16/2024,north ,Charlie,Lapptop,1000,,,0.15,
+6/8/2024,West,Bob,Tblet,1,,,0.05,Retail
+1/6/2024,north ,Alice,Tablet,5,400,1900,0.05,
+2/29/2024,NORTH,Bob,Laptop,8,900,6840,0.05,SMB
+5/7/2024,East,Diana,Laptop,6,900,5400,0,Corporate
+4/10/2024,NORTH,Ethan,Monitr,3,,,0.05,SMB
+1/4/2024,NORTH,Bob,Monitor,8,250,1900,0.05,Retail
+1/25/2024,west ,Bob,Monitr,7,,,0.1,SMB
+1/11/2024,west ,Ethan,Lapptop,5,,,0.15,SMB
+1/14/2024,South,Alice,Phon,1000,,,0.15,SMB
+1/14/2024,South,Alice,Phon,1000,,,0.15,SMB
+3/11/2024,NORTH,Diana,Phon,1,,,0,
+2/9/2024,East,Alice,Phon,3,,,0.15,Retail
+3/27/2024,North,Alice,Tblet,1000,,,0.05,Retail
+2/29/2024,East,Ethan,Tblet,8,,,0.05,Retail
+4/1/2024,north ,Charlie,Laptop,8,900,6120,0.15,SMB
+5/5/2024,South,Ethan,Phone,9,700,5670,0.1,SMB
+3/11/2024,west ,Bob,Lapptop,9,,,0.05,
+3/8/2024,west ,Charlie,Monitr,1,,,,
+1/5/2024,East,Ethan,Phon,6,,,0,
+6/23/2024,West,Ethan,Phone,10,700,6300,0.1,SMB
+3/23/2024,NORTH,Alice,Headphones,1000,120,120000,0,Retail
+2/3/2024,north ,Alice,Phon,2,,,0.15,Corporate
+5/26/2024,EAST,Diana,Headphones,10,120,1200,,SMB
+5/26/2024,EAST,Diana,Headphones,10,120,1200,,SMB
+2/26/2024,NORTH,Alice,Phon,1000,,,0.15,Retail
+6/12/2024,North,Charlie,Headphones,1000,120,102000,0.15,SMB
+1/15/2024,south,Ethan,Laptop,1000,900,900000,0,SMB
+2/25/2024,west ,Alice,Lapptop,1000,,,0.05,
+5/14/2024,South,Ethan,Phone,9,700,6300,,
+6/12/2024,East,Diana,Monitor,2,250,475,0.05,Corporate
+5/9/2024,East,Bob,Headphones,10,120,1020,0.15,SMB
+5/20/2024,East,Charlie,Monitor,1000,250,212500,0.15,SMB
+5/24/2024,west ,Bob,Monitor,9,250,2025,0.1,SMB
+4/24/2024,EAST,Alice,Laptop,5,900,4500,,Retail
+3/18/2024,North,Charlie,Phon,4,,,0.1,Retail
+6/25/2024,south,Ethan,Headphones,9,120,1080,,Corporate
+4/27/2024,East,Bob,Phone,5,700,3150,0.1,Corporate
+3/17/2024,NORTH,Ethan,Monitor,10,250,2375,0.05,Retail
+5/3/2024,north ,Diana,Headfone,2,,,,SMB
+5/3/2024,north ,Diana,Headfone,2,,,,SMB
+5/27/2024,EAST,Alice,Laptop,6,900,4860,0.1,
+1/31/2024,South,Ethan,Laptop,1000,900,765000,0.15,Retail
+1/11/2024,East,Ethan,Headfone,3,,,0.1,Corporate
+6/21/2024,EAST,Diana,Headfone,10,,,,Retail
+3/15/2024,EAST,Bob,Phone,6,700,4200,0,
+1/13/2024,west ,Diana,Tablet,2,400,680,0.15,
+2/3/2024,north ,Diana,Headphones,4,120,408,0.15,
+2/20/2024,west ,Ethan,Headphones,4,120,456,0.05,Retail
+4/20/2024,East,Ethan,Lapptop,2,,,0.15,
+2/18/2024,East,Charlie,Headfone,1000,,,0,SMB
+3/30/2024,West,Ethan,Phone,8,700,5600,0,Corporate
+4/5/2024,north ,Alice,Lapptop,1000,,,0,Corporate
+2/7/2024,south,Alice,Tblet,1000,,,0,SMB
+1/6/2024,East,Bob,Headphones,4,120,456,0.05,SMB
+6/8/2024,north ,Alice,Monitor,10,250,2500,,Retail
+1/16/2024,south,Bob,Headfone,5,,,0,
+1/3/2024,NORTH,Diana,Tablet,1000,400,360000,0.1,Retail
+1/3/2024,NORTH,Diana,Tablet,1000,400,360000,0.1,Retail
+6/15/2024,EAST,Bob,Monitor,9,250,2250,0,SMB
+6/1/2024,west ,Alice,Phone,4,700,2800,,
+1/6/2024,North,Bob,Headphones,5,120,540,0.1,
+2/10/2024,North,Charlie,Tblet,6,,,0.1,Corporate
+5/8/2024,south,Alice,Tablet,7,400,2800,0,SMB
+3/28/2024,EAST,Bob,Lapptop,1000,,,0.15,Corporate
+5/26/2024,north ,Diana,Tablet,10,400,3600,0.1,
+2/22/2024,north ,Ethan,Headphones,1000,120,114000,0.05,Corporate
+6/29/2024,west ,Bob,Monitor,3,250,750,,Corporate
+5/22/2024,west ,Alice,Phone,6,700,3990,0.05,Retail
+4/15/2024,EAST,Charlie,Monitr,1000,,,0.1,Corporate
+1/28/2024,north ,Bob,Laptop,10,900,9000,,SMB
+6/5/2024,South,Ethan,Phon,4,,,0,SMB
+5/2/2024,north ,Ethan,Headfone,8,,,0.1,Corporate
+5/5/2024,West,Bob,Phone,4,700,2660,0.05,Retail
+1/4/2024,south,Diana,Phon,1000,,,0.05,Corporate
+4/22/2024,West,Charlie,Monitr,4,,,0.15,
+6/4/2024,EAST,Charlie,Monitor,10,250,2500,,Retail
+4/25/2024,West,Alice,Phon,9,,,,
+1/11/2024,west ,Diana,Headphones,1000,120,120000,0,Corporate
+4/11/2024,south,Charlie,Monitr,3,,,0.15,SMB
+1/14/2024,west ,Bob,Monitr,1000,,,0.15,Retail
+1/29/2024,north ,Ethan,Headphones,3,120,306,0.15,
+1/7/2024,north ,Diana,Headfone,1000,,,0.05,
+3/23/2024,north ,Alice,Lapptop,2,,,0.15,SMB
+6/30/2024,EAST,Ethan,Headfone,3,,,0.15,
+6/30/2024,EAST,Ethan,Headfone,3,,,0.15,
+2/13/2024,East,Ethan,Phone,3,700,1995,0.05,Corporate
+1/14/2024,EAST,Charlie,Tablet,1000,400,340000,0.15,SMB
+1/31/2024,north ,Bob,Laptop,10,900,8100,0.1,Retail
+5/7/2024,west ,Alice,Headfone,8,,,0.05,Corporate
+5/1/2024,West,Diana,Monitr,2,,,,Retail
+5/20/2024,south,Ethan,Headphones,4,120,480,0,Corporate
+6/16/2024,East,Alice,Phone,1,700,700,,SMB
+1/23/2024,North,Alice,Monitor,3,250,712.5,0.05,SMB
+6/26/2024,west ,Bob,Monitr,1000,,,,SMB
+1/24/2024,south,Charlie,Tblet,7,,,0,
+1/17/2024,south,Diana,Phone,2,700,1260,0.1,SMB
+5/14/2024,South,Bob,Headfone,1,,,0,Retail
+6/25/2024,south,Diana,Headfone,6,,,0.1,SMB
+6/6/2024,West,Ethan,Monitr,8,,,0.05,Corporate
+2/19/2024,North,Alice,Laptop,8,900,7200,0,Corporate
+4/16/2024,EAST,Alice,Tblet,6,,,,Corporate
+4/16/2024,EAST,Alice,Tblet,6,,,,Corporate
+2/21/2024,south,Charlie,Lapptop,5,,,0.1,SMB
+1/30/2024,East,Charlie,Monitor,1000,250,250000,,Retail
+2/19/2024,East,Charlie,Monitr,8,,,0,Corporate
+6/9/2024,West,Ethan,Tblet,8,,,0.15,Retail
+3/17/2024,East,Ethan,Headphones,1,120,114,0.05,SMB
+3/31/2024,NORTH,Bob,Tablet,1,400,360,0.1,
+2/12/2024,EAST,Bob,Headfone,2,,,0.1,SMB
+3/10/2024,EAST,Alice,Monitr,4,,,0.1,
+3/18/2024,South,Ethan,Tablet,3,400,1200,0,SMB
+2/21/2024,NORTH,Diana,Headphones,1,120,102,0.15,Corporate
+5/3/2024,west ,Charlie,Tblet,3,,,0,Corporate
+1/10/2024,West,Diana,Headphones,2,120,240,0,SMB
+6/24/2024,NORTH,Charlie,Monitr,1,,,0,SMB
+6/24/2024,NORTH,Charlie,Monitr,1,,,0,SMB
+3/20/2024,South,Charlie,Phon,4,,,0.1,SMB
+4/22/2024,NORTH,Charlie,Phone,3,700,1890,0.1,Retail
+4/22/2024,NORTH,Charlie,Phone,3,700,1890,0.1,Retail
+6/8/2024,west ,Ethan,Lapptop,4,,,,SMB
+3/10/2024,north ,Charlie,Headfone,4,,,0.05,Retail
+3/27/2024,west ,Diana,Laptop,3,900,2700,0,
+1/13/2024,NORTH,Diana,Laptop,2,900,1530,0.15,
+6/1/2024,West,Ethan,Tblet,5,,,0.1,Corporate
+6/20/2024,west ,Alice,Monitr,10,,,0.05,Retail
+6/27/2024,West,Alice,Monitr,5,,,0.15,
+2/27/2024,north ,Ethan,Tablet,6,400,2040,0.15,Corporate
+6/19/2024,East,Charlie,Monitr,8,,,0,Retail
+3/30/2024,West,Diana,Phone,5,700,3150,0.1,Corporate
+4/13/2024,NORTH,Charlie,Headphones,1000,120,120000,0,SMB
+4/12/2024,EAST,Bob,Headfone,4,,,,Corporate
+4/8/2024,NORTH,Charlie,Phon,1000,,,,
+4/21/2024,East,Ethan,Phon,3,,,0,
+6/1/2024,West,Charlie,Headphones,2,120,204,0.15,Corporate
+4/13/2024,NORTH,Ethan,Lapptop,1000,,,,
+6/14/2024,North,Alice,Phon,3,,,,Retail
+6/18/2024,north ,Diana,Headphones,5,120,510,0.15,
+6/23/2024,East,Charlie,Headfone,1000,,,0.1,
+3/29/2024,NORTH,Ethan,Laptop,10,900,9000,,
+3/16/2024,North,Charlie,Headphones,1,120,120,0,SMB
+3/13/2024,North,Bob,Monitor,1000,250,250000,,
+4/7/2024,EAST,Diana,Monitor,9,250,2137.5,0.05,Corporate
+2/18/2024,west ,Diana,Tblet,7,,,0.05,SMB
+6/20/2024,north ,Bob,Laptop,2,900,1800,0,Corporate
+5/4/2024,EAST,Bob,Lapptop,3,,,0.15,
+6/27/2024,EAST,Ethan,Phone,8,700,5600,,
+4/25/2024,EAST,Charlie,Phon,3,,,0.15,Retail
+3/1/2024,west ,Charlie,Monitor,9,250,2250,,SMB
+3/1/2024,west ,Charlie,Monitor,9,250,2250,,SMB
+1/10/2024,West,Charlie,Lapptop,10,,,0.15,Retail
+5/14/2024,south,Diana,Headphones,2,120,240,,Retail
+6/10/2024,NORTH,Ethan,Headfone,5,,,,Retail
+5/16/2024,North,Diana,Monitr,9,,,0.15,SMB
+3/16/2024,south,Bob,Laptop,1000,900,900000,,SMB
+5/24/2024,south,Alice,Monitr,10,,,0.05,Retail
+3/15/2024,North,Charlie,Monitr,2,,,0.05,Retail
+3/12/2024,south,Bob,Headfone,5,,,0.1,SMB
+3/12/2024,south,Bob,Headfone,5,,,0.1,SMB
+1/29/2024,north ,Ethan,Phone,1000,700,595000,0.15,SMB
+3/7/2024,South,Diana,Phone,9,700,6300,0,SMB
+2/7/2024,north ,Diana,Monitor,7,250,1662.5,0.05,
+2/12/2024,South,Ethan,Tblet,1,,,0.1,Retail
+4/28/2024,EAST,Diana,Tablet,8,400,3200,,Corporate
+6/29/2024,EAST,Diana,Tablet,3,400,1200,,
+6/29/2024,EAST,Diana,Tablet,3,400,1200,,
+4/24/2024,EAST,Charlie,Headphones,1000,120,120000,0,Retail
+6/12/2024,East,Diana,Headfone,1000,,,0.1,SMB
+1/26/2024,south,Ethan,Monitor,8,250,1900,0.05,Corporate
+6/22/2024,north ,Charlie,Headphones,1,120,120,0,Retail
+6/22/2024,north ,Charlie,Headphones,1,120,120,0,Retail
+1/26/2024,west ,Alice,Monitr,6,,,0.05,SMB
+1/9/2024,North,Ethan,Lapptop,1,,,,Corporate
+6/12/2024,NORTH,Alice,Lapptop,10,,,0.05,
+6/14/2024,north ,Alice,Phone,5,700,3150,0.1,
+1/20/2024,West,Charlie,Monitor,1000,250,225000,0.1,SMB
+1/19/2024,south,Alice,Monitor,7,250,1575,0.1,Retail
+3/8/2024,north ,Diana,Lapptop,8,,,0.05,
+5/5/2024,NORTH,Bob,Headphones,7,120,798,0.05,Retail
+3/7/2024,NORTH,Alice,Lapptop,2,,,,SMB
+1/5/2024,West,Bob,Laptop,1,900,765,0.15,SMB
+3/25/2024,EAST,Ethan,Laptop,9,900,6885,0.15,
+1/18/2024,west ,Bob,Laptop,7,900,5355,0.15,Retail
+4/1/2024,East,Charlie,Monitor,1,250,250,0,SMB
+3/28/2024,NORTH,Diana,Tablet,1000,400,380000,0.05,Corporate
+4/8/2024,South,Charlie,Monitor,2,250,450,0.1,
+6/10/2024,West,Bob,Phone,1,700,665,0.05,Retail
+5/31/2024,South,Diana,Monitor,2,250,500,,SMB
+4/25/2024,North,Alice,Tblet,1,,,0.1,Retail
+2/24/2024,west ,Diana,Headphones,3,120,360,,Corporate
+1/10/2024,north ,Diana,Laptop,8,900,7200,,Retail
+6/15/2024,north ,Alice,Phone,1000,700,700000,0,SMB
+1/25/2024,West,Ethan,Phone,10,700,7000,0,Retail
+6/1/2024,South,Alice,Phon,7,,,0.1,
+6/24/2024,west ,Bob,Tblet,4,,,0,Corporate
+1/31/2024,south,Bob,Monitor,3,250,675,0.1,Corporate
+5/28/2024,North,Bob,Lapptop,1000,,,,
+1/5/2024,West,Alice,Laptop,1,900,855,0.05,Retail
+5/31/2024,south,Diana,Monitr,1000,,,0.05,Corporate
+3/10/2024,west ,Diana,Monitor,4,250,950,0.05,Retail
+5/7/2024,NORTH,Charlie,Tblet,7,,,0,Corporate
+5/15/2024,NORTH,Ethan,Tblet,9,,,,Corporate
+6/9/2024,South,Charlie,Laptop,4,900,3600,0,Corporate
+5/1/2024,West,Bob,Phone,1000,700,700000,0,Retail
+3/13/2024,South,Diana,Tablet,6,400,2400,,
+3/13/2024,South,Diana,Tablet,6,400,2400,,
+1/14/2024,west ,Bob,Phone,1,700,595,0.15,Retail
+3/1/2024,West,Ethan,Headfone,6,,,0.15,Corporate
+3/24/2024,South,Alice,Tblet,4,,,0,Corporate
+2/21/2024,EAST,Bob,Lapptop,8,,,,
+4/21/2024,north ,Bob,Headfone,8,,,0.05,
+4/27/2024,South,Charlie,Tablet,4,400,1440,0.1,Corporate
+4/27/2024,South,Charlie,Tablet,4,400,1440,0.1,Corporate
+5/25/2024,North,Charlie,Phone,2,700,1190,0.15,
+3/28/2024,South,Charlie,Headfone,3,,,,Corporate
+5/21/2024,South,Alice,Monitor,9,250,1912.5,0.15,Corporate
+4/28/2024,south,Alice,Monitor,1000,250,237500,0.05,Corporate
+5/28/2024,South,Ethan,Phone,10,700,7000,0,
+1/11/2024,West,Ethan,Laptop,7,900,6300,,
+6/27/2024,NORTH,Diana,Monitr,4,,,0,Retail
+4/14/2024,South,Bob,Tblet,5,,,0.05,Retail
+4/14/2024,South,Bob,Tblet,5,,,0.05,Retail
+6/20/2024,south,Bob,Monitr,10,,,,Retail
+4/28/2024,north ,Diana,Phone,6,700,3570,0.15,Retail
+1/19/2024,EAST,Charlie,Headphones,1,120,108,0.1,
+6/27/2024,west ,Ethan,Phon,1000,,,0,SMB
+1/15/2024,west ,Charlie,Laptop,2,900,1530,0.15,SMB
+1/11/2024,East,Charlie,Phone,1000,700,700000,,Retail
+2/22/2024,north ,Charlie,Phon,9,,,0,
+5/28/2024,South,Bob,Tblet,6,,,0.1,
+1/17/2024,East,Charlie,Monitr,8,,,,Retail
+5/16/2024,west ,Charlie,Monitr,10,,,0.1,Retail
+4/27/2024,NORTH,Alice,Monitor,3,250,675,0.1,Retail
+3/11/2024,NORTH,Bob,Monitr,3,,,0.05,Retail
+6/23/2024,west ,Bob,Monitr,6,,,0.15,
+1/6/2024,south,Bob,Lapptop,1,,,0.05,SMB
+3/28/2024,East,Diana,Headfone,1000,,,,
+5/25/2024,north ,Charlie,Phone,5,700,3325,0.05,
+3/14/2024,North,Bob,Tblet,5,,,0.15,Corporate
+2/11/2024,west ,Charlie,Phone,3,700,1995,0.05,Corporate
+1/11/2024,East,Ethan,Phone,8,700,5040,0.1,SMB
+5/23/2024,North,Charlie,Tblet,3,,,0.1,
+2/11/2024,west ,Charlie,Lapptop,1,,,0.15,
+4/27/2024,East,Bob,Laptop,1000,900,900000,,SMB
+3/16/2024,West,Charlie,Headfone,1000,,,0.05,
+1/29/2024,West,Alice,Phone,1000,700,700000,,Retail
+4/12/2024,South,Diana,Tblet,2,,,0.1,Retail
+2/19/2024,west ,Bob,Tablet,4,400,1600,0,Retail
+4/24/2024,NORTH,Ethan,Monitor,4,250,850,0.15,SMB
+5/10/2024,North,Charlie,Monitor,3,250,637.5,0.15,SMB
+1/4/2024,south,Charlie,Tblet,5,,,0.15,Retail
+4/23/2024,EAST,Diana,Tablet,3,400,1020,0.15,
+5/30/2024,NORTH,Bob,Phon,5,,,0.15,SMB
+5/31/2024,EAST,Alice,Laptop,7,900,5670,0.1,
+4/28/2024,north ,Bob,Phone,7,700,4410,0.1,
+4/28/2024,north ,Bob,Phone,7,700,4410,0.1,
+3/18/2024,south,Diana,Headphones,1000,120,102000,0.15,Corporate
+3/18/2024,south,Diana,Headphones,1000,120,102000,0.15,Corporate
+1/1/2024,north ,Charlie,Tablet,1000,400,340000,0.15,Retail
+3/14/2024,EAST,Bob,Monitr,1000,,,0.05,Retail
+3/11/2024,West,Alice,Headfone,1000,,,0.1,
+3/7/2024,West,Alice,Tblet,9,,,,Retail
+2/11/2024,North,Bob,Tblet,8,,,0.05,SMB
+3/10/2024,East,Diana,Tblet,1,,,0.1,SMB
+1/20/2024,west ,Bob,Phone,2,700,1400,,Corporate
+3/21/2024,south,Charlie,Tblet,2,,,,SMB
+1/4/2024,north ,Ethan,Tablet,6,400,2040,0.15,
+2/11/2024,NORTH,Bob,Phone,9,700,5985,0.05,Corporate
+5/23/2024,west ,Ethan,Headphones,1000,120,120000,0,
+1/20/2024,NORTH,Bob,Laptop,8,900,6480,0.1,SMB
+2/5/2024,West,Ethan,Headphones,6,120,684,0.05,SMB
+2/5/2024,West,Ethan,Headphones,6,120,684,0.05,SMB
+1/31/2024,South,Bob,Phone,1000,700,665000,0.05,SMB
+2/3/2024,NORTH,Diana,Lapptop,2,,,0,
+1/11/2024,South,Alice,Laptop,1000,900,900000,,Retail
+3/5/2024,North,Alice,Tablet,1000,400,400000,0,Retail
+6/3/2024,South,Ethan,Phon,3,,,0.1,Retail
+3/12/2024,East,Charlie,Phone,9,700,6300,,Corporate
+1/18/2024,NORTH,Ethan,Laptop,9,900,7695,0.05,Corporate
+2/13/2024,west ,Alice,Lapptop,4,,,,
+5/30/2024,north ,Diana,Lapptop,3,,,0.1,
+5/11/2024,South,Diana,Lapptop,6,,,0,
+2/4/2024,West,Charlie,Tablet,9,400,3600,0,Retail
+1/30/2024,EAST,Charlie,Monitr,10,,,0.1,
+4/14/2024,south,Diana,Phon,2,,,0.15,SMB
+6/21/2024,West,Alice,Monitor,8,250,2000,,Retail
+4/11/2024,EAST,Ethan,Lapptop,1000,,,0.05,Retail
+2/20/2024,East,Bob,Headfone,7,,,0,Corporate
+5/7/2024,south,Ethan,Headfone,5,,,0.15,SMB
+6/3/2024,EAST,Diana,Headphones,5,120,570,0.05,
+3/5/2024,West,Diana,Phon,1000,,,0.05,Retail
+1/14/2024,NORTH,Diana,Laptop,3,900,2295,0.15,SMB
+6/8/2024,NORTH,Alice,Headphones,8,120,816,0.15,Corporate
+5/7/2024,West,Ethan,Tablet,9,400,3240,0.1,Retail
+1/9/2024,EAST,Alice,Monitor,8,250,1800,0.1,
+1/10/2024,North,Bob,Headphones,1000,120,108000,0.1,Corporate
+2/4/2024,south,Diana,Monitr,2,,,,
+6/24/2024,west ,Ethan,Monitr,8,,,,Corporate
+4/10/2024,south,Diana,Headfone,7,,,,SMB
+3/13/2024,East,Alice,Laptop,10,900,9000,0,Corporate
+3/30/2024,North,Charlie,Monitor,2,250,425,0.15,SMB
+4/15/2024,East,Alice,Phon,4,,,0.05,SMB
+6/25/2024,NORTH,Charlie,Lapptop,6,,,0.05,Retail
+1/10/2024,West,Diana,Headfone,9,,,0.15,SMB
+1/10/2024,West,Diana,Headfone,9,,,0.15,SMB
+4/30/2024,North,Charlie,Monitor,10,250,2125,0.15,SMB
+5/5/2024,NORTH,Bob,Tblet,8,,,,SMB
+3/17/2024,East,Diana,Phon,8,,,0,Corporate
+1/13/2024,south,Ethan,Monitor,4,250,1000,,Retail
+5/28/2024,NORTH,Ethan,Tblet,5,,,0,
+3/29/2024,NORTH,Charlie,Headphones,5,120,510,0.15,SMB
+4/12/2024,south,Ethan,Headphones,8,120,960,,Corporate
+6/9/2024,west ,Bob,Headfone,8,,,0.05,
+6/12/2024,west ,Ethan,Monitor,10,250,2500,0,Corporate
+2/7/2024,South,Bob,Tablet,7,400,2380,0.15,SMB
+1/17/2024,South,Diana,Tablet,5,400,1900,0.05,SMB
+3/1/2024,EAST,Bob,Lapptop,3,,,0.05,Retail
+3/20/2024,West,Diana,Headphones,7,120,714,0.15,Retail
+3/10/2024,north ,Alice,Tablet,5,400,2000,,Corporate
+1/11/2024,West,Alice,Laptop,2,900,1620,0.1,SMB
+4/14/2024,East,Alice,Monitor,1000,250,237500,0.05,Corporate
+5/8/2024,NORTH,Ethan,Headfone,9,,,0.1,
+3/1/2024,NORTH,Charlie,Tblet,10,,,0.15,Corporate
+2/25/2024,north ,Alice,Phone,4,700,2520,0.1,
+5/30/2024,North,Diana,Headphones,6,120,720,0,SMB
+5/1/2024,South,Charlie,Phone,6,700,3570,0.15,SMB
+1/6/2024,North,Alice,Phon,5,,,,
+6/28/2024,East,Alice,Headphones,4,120,408,0.15,
+6/28/2024,East,Alice,Headphones,4,120,408,0.15,
+4/10/2024,south,Charlie,Lapptop,4,,,0.1,Corporate
+2/11/2024,West,Charlie,Monitor,1,250,225,0.1,Retail
+5/5/2024,West,Diana,Tblet,1000,,,0.15,Retail
+6/27/2024,south,Ethan,Lapptop,6,,,0.15,SMB
+1/8/2024,North,Bob,Monitr,1000,,,0.05,Retail
+6/9/2024,south,Charlie,Headfone,2,,,0,Corporate
+6/15/2024,north ,Ethan,Monitor,6,250,1275,0.15,
+2/4/2024,south,Bob,Headfone,6,,,0.1,Corporate
+4/4/2024,north ,Diana,Monitor,10,250,2375,0.05,Retail
+5/22/2024,South,Alice,Monitr,4,,,0.1,Corporate
+5/22/2024,South,Alice,Monitr,4,,,0.1,Corporate
+6/7/2024,EAST,Ethan,Tablet,3,400,1200,0,SMB
+5/25/2024,NORTH,Alice,Headphones,7,120,714,0.15,
+2/22/2024,South,Charlie,Tablet,1000,400,340000,0.15,
+2/22/2024,South,Charlie,Phon,7,,,0.05,
+1/8/2024,south,Charlie,Phon,10,,,0.15,Corporate
+6/24/2024,West,Alice,Laptop,8,900,6840,0.05,SMB
+4/11/2024,South,Diana,Monitor,1000,250,250000,,SMB
+5/22/2024,North,Alice,Tblet,4,,,0.15,SMB
+6/20/2024,North,Alice,Tablet,9,400,3600,,
+4/11/2024,East,Bob,Headphones,1,120,120,,Corporate
+5/8/2024,West,Charlie,Monitr,3,,,0,SMB
+4/20/2024,north ,Charlie,Lapptop,6,,,0,Corporate
+3/12/2024,East,Diana,Tablet,5,400,2000,,SMB
+4/21/2024,north ,Charlie,Monitr,3,,,,
+2/8/2024,North,Bob,Phone,1,700,595,0.15,SMB
+4/29/2024,EAST,Alice,Monitr,1,,,0.15,SMB
+5/23/2024,West,Diana,Monitr,2,,,0.05,Retail
+2/22/2024,south,Bob,Phone,1000,700,700000,,SMB
+6/18/2024,South,Ethan,Laptop,9,900,8100,,Corporate
+1/20/2024,South,Diana,Lapptop,6,,,0,SMB
+6/23/2024,NORTH,Diana,Tblet,10,,,0,SMB
+1/21/2024,West,Diana,Monitr,1000,,,0.1,Retail
+1/12/2024,West,Charlie,Headfone,3,,,0.05,Retail
+3/13/2024,East,Alice,Lapptop,9,,,,
+3/6/2024,north ,Bob,Monitor,2,250,500,0,Corporate
+4/13/2024,south,Bob,Lapptop,5,,,0.15,
+3/20/2024,north ,Charlie,Lapptop,6,,,,Corporate
+4/9/2024,West,Charlie,Headfone,10,,,0.15,Retail
+4/4/2024,north ,Diana,Monitor,2,250,500,0,SMB
+6/22/2024,South,Bob,Monitr,9,,,,Retail
+4/21/2024,NORTH,Diana,Tablet,3,400,1140,0.05,SMB
+5/13/2024,EAST,Charlie,Headfone,1,,,,Retail
+5/11/2024,NORTH,Ethan,Monitor,7,250,1750,0,
+5/25/2024,south,Charlie,Tablet,10,400,4000,0,Retail
+6/18/2024,West,Bob,Phone,7,700,4900,0,Retail
+6/29/2024,south,Charlie,Headfone,1000,,,0.15,
+3/8/2024,East,Bob,Phon,3,,,0,SMB
+1/28/2024,EAST,Ethan,Laptop,1,900,765,0.15,Retail
+1/28/2024,EAST,Ethan,Laptop,1,900,765,0.15,Retail
+6/16/2024,West,Diana,Monitor,1000,250,250000,,
+6/6/2024,East,Diana,Tablet,2,400,760,0.05,Corporate
+6/6/2024,East,Diana,Tablet,2,400,760,0.05,Corporate
+1/29/2024,North,Bob,Laptop,4,900,3060,0.15,Corporate
+4/21/2024,west ,Bob,Lapptop,5,,,0.15,Corporate
+1/6/2024,NORTH,Bob,Phone,1000,700,595000,0.15,
+4/25/2024,South,Bob,Tablet,10,400,3400,0.15,Retail
+1/27/2024,EAST,Diana,Monitr,1000,,,,SMB
+1/27/2024,EAST,Diana,Monitr,1000,,,,SMB
+4/12/2024,West,Ethan,Headfone,1000,,,,
+1/16/2024,west ,Alice,Monitor,10,250,2250,0.1,Retail
+6/14/2024,EAST,Diana,Lapptop,8,,,,SMB
+4/21/2024,North,Bob,Tablet,1000,400,380000,0.05,
+2/29/2024,west ,Bob,Headfone,1000,,,0.1,
+3/16/2024,EAST,Diana,Tblet,8,,,0.05,Corporate
+1/23/2024,West,Bob,Phone,4,700,2660,0.05,
+4/16/2024,West,Charlie,Phon,4,,,,Retail
+4/1/2024,south,Charlie,Phone,3,700,2100,,Retail
+3/27/2024,EAST,Alice,Headfone,4,,,0,Corporate
+3/28/2024,East,Alice,Headphones,5,120,570,0.05,Retail
+4/22/2024,West,Alice,Lapptop,10,,,,Retail
