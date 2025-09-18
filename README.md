@@ -18,7 +18,7 @@ The initial dataset was inconsistent and challenging to use for analysis. Key is
 - Removed outliers (Quantity >= 1000 ) because well i don't think someone actually bought 1000 TV it's more likely system error.
 - Used the custom column feature to correct misspelled product names ("phon" => "phone") wich is neccessary for later analysis.
 - Changed the "Region" column to a consistent format (e.g., all uppercase, no spaces) using fonctions like TRIM and UPPERCASE.
-- I created a second query and filtered the data to include only products with unit price values, removing the other columns. I then refined it further to ensure each product appeared only once. After that, I merged this query with the first one (after deleting the unit price and revenue columns from the first), resulting in a third query that contained all sales with the correct unit prices. This made it easy to create a new 'Revenue' column by simply multiplying 'Unit Price' by 'Quantity'.
+- I created a second query and filtered the data to include only products with unit price values, removing the other columns. I then refined it further to ensure each product appeared only once. After that, I merged this query with the first one (after deleting the unit price and revenue columns from the first), resulting in a third query that contained all sales with the correct unit prices. This made it easy to create a new 'Revenue' column by simply multiplying 'Unit Price' by 'Quantity' times 1-"Discount".
 
 <img width="640" height="210" alt="data cleaning 22" src="https://github.com/user-attachments/assets/5808dce1-b76b-48a9-9864-dda635c65fac" />
 
